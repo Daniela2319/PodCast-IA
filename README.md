@@ -39,7 +39,7 @@ Esse projeto foi desenvolvindo com as seguintes tecnologias:
 - PDF
 - Lexica.at
 - IIElevenlabs
-
+- <a href="https://youtu.be/h5Jdi1H5Uyc" target="_blank">Youtube - PostCast</a>
 # Autor
 
 _Daniela Velter_
