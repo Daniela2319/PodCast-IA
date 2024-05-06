@@ -36,10 +36,10 @@ Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
 - IDE VisualStudio Code
 - POWER POINT
-- PDF
+- <a href="https://github.com/Daniela2319/PostCast-IA/blob/master/PostCast-chatgpt/PostCast-%20Patrulha%20CodeCanina.pdf" target="_blank"> PDF - PostCast</a>
 - Lexica.at
 - IIElevenlabs
-
+- <a href="https://youtu.be/h5Jdi1H5Uyc" target="_blank">Youtube - PostCast</a>
 # Autor
 
 _Daniela Velter_
