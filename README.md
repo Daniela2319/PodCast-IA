@@ -12,13 +12,13 @@
 # Sobre
 
 <br>
-Bem-vindo ao Postcast "Frontend - Patrulha CodeCanina", onde exploramos o poder e as possibilidades do ChatGPT, um modelo de linguagem avançado desenvolvido pela OpenAI. Este Postcast descobrindo frontend para crianças.
+Bem-vindo ao Podcast "Frontend - Patrulha CodeCanina", onde exploramos o poder e as possibilidades do ChatGPT, um modelo de linguagem avançado desenvolvido pela OpenAI. Este Podcast descobrindo frontend para crianças.
 
 <br>
 
 <br>
 <p align="center">
-<img src="./images/Captura de tela 2024-05-06 194205.png"
+<img src="./images/Captura de tela 2024-05-06 200940.png"
  height="" width="400">
 
  </p>
